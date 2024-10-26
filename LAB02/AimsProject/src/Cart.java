@@ -36,7 +36,7 @@ public class Cart {
         return 0;
     }
 
-    public  float totalCost() {
+    public float totalCost() {
         float sum = 0.00f;
         for (int i=0;i<qtyOrdered;i++) {
             sum += itemsOrdered[i].getCost();
