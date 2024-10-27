@@ -9,9 +9,12 @@ public class Aims {
         anOrder.addDigitalVideoDisc(dvd2);
         DigitalVideoDisc dvd3 = new DigitalVideoDisc("Aladin","Animation",18.99f);
         anOrder.addDigitalVideoDisc(dvd3);
+        DigitalVideoDisc dvd4 = new DigitalVideoDisc("Hung","Horror",20.00f);
 
         System.out.println("Total cost is: " + anOrder.totalCost());
-        anOrder.removeDigitalVideoDisc(dvd1);
+        anOrder.removeDigitalVideoDisc(dvd1);   //Remove successfully dvd1
         System.out.println("Total cost is: " + anOrder.totalCost());
+
+        anOrder.removeDigitalVideoDisc(dvd4);   //Not found DVD
     }
 }
