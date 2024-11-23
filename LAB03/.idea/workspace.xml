@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35fb13ae-4d85-4d9b-a750-02d844dd6f87" name="Changes" comment="" />
+    <list default="true" id="35fb13ae-4d85-4d9b-a750-02d844dd6f87" name="Changes" comment="Adding file">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIMSProject/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIMSProject/AimsProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIMSProject/Design/Class Diagram0.asta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIMSProject/Design/ClassDiagram.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIMSProject/Design/ClassDiagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIMSProject/Requirement/AIMS_Use_case_diagram.asta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIMSProject/Requirement/UseCaseDiagram.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIMSProject/Requirement/UseCaseDiagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIMSProject/src/hust/soict/dsai/aims/Aims.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIMSProject/src/hust/soict/dsai/aims/cart/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIMSProject/src/hust/soict/dsai/aims/disc/DigitalVideoDisc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadingAssignment/Mindmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadingAssignment/answers.pdf" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2pEEJF8m3ppA7xQTgNyDo3Fd6Dw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,10 +41,26 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Ngoc_Hung/20241/Lập trình hướng đối tượng/20225635_OOPLab_20241/LAB03"
+    "last_opened_file_path": "D:/Ngoc_Hung/20241/Lập trình hướng đối tượng/20225635_OOPLab_20241/LAB 03"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="LAB03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="LAB03" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,6 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1732322760704</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding file">
+      <option name="closed" value="true" />
+      <created>1732325245784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732325245784</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding file" />
   </component>
 </project>
