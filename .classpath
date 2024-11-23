@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="LAB01"/>
+	<classpathentry kind="src" path="LAB02/AimsProject/src"/>
+	<classpathentry excluding="hust/soict/dsai/aims/cart/|hust/soict/dsai/aims/|hust/soict/dsai/aims/disc/" kind="src" path="LAB 03/AIMSProject/src"/>
+	<classpathentry excluding="cart/|disc/" kind="src" path="LAB 03/AIMSProject/src/hust/soict/dsai/aims"/>
+	<classpathentry kind="src" path="LAB 03/AIMSProject/src/hust/soict/dsai/aims/cart"/>
+	<classpathentry kind="src" path="LAB 03/AIMSProject/src/hust/soict/dsai/aims/disc"/>
+	<classpathentry kind="output" path="LAB02/AimsProject/out/production/AimsProject"/>
+</classpath>
