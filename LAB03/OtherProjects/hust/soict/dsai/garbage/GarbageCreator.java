@@ -6,7 +6,7 @@ import java.nio.file.Paths;
 
 public class GarbageCreator {
     public static void main(String[] args) {
-        String filename = "D:/Ngoc_Hung/20241/Lập trình hướng đối tượng/20225635_OOPLab_20241/LAB03/OtherProjects/hust/soict/dsai/garbage/text.txt"; // Đảm bảo tệp này tồn tại trong thư mục hiện tại hoặc sử dụng đường dẫn tuyệt đối
+        String filename = "D:/Ngoc_Hung/20241/Lập trình hướng đối tượng/20225635_OOPLab_20241/LAB03/OtherProjects/hust/soict/dsai/garbage/text.txt";
         byte[] inputBytes = new byte[0]; // Khai báo mảng byte
         long startTime, endTime;
         

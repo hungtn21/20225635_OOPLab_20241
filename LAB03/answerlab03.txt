@@ -1,0 +1,14 @@
+Câu hỏi trang 6 phần 2.1
+Trả lời: Tôi thích sử dụng tham số mảng hơn.
+
+Câu hỏi trang 6 phần 3
+Trả lời: JAVA là ngôn ngữ lập trình theo kiểu Pass by Value.
+
+Câu hỏi trang 8 phần 3
+- Tiêu đề của hai đối tượng này vẫn không thay đổi sau khi gọi phương thức swap vì Java truyền tham chiếu đối tượng theo kiểu Pass by Value, và phương thức chỉ hoán đổi các tham chiếu cục bộ, không thay đổi các tham chiếu gốc.
+
+- Tiêu đề của jungleDVD bị thay đổi vì phương thức changeTitle thay đổi trực tiếp trạng thái của đối tượng jungleDVD bằng cách gọi phương thức setTitle, làm cập nhật tiêu đề của đối tượng được truyền vào.
+
+Câu hỏi trang 16 phần 6
+
+- Kiểu dữ liệu trả về nên là String
