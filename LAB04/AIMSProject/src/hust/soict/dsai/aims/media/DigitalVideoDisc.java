@@ -5,8 +5,6 @@ public class DigitalVideoDisc extends Disc implements Playable {
 		super(id, title, category, cost, length, director);
 	}
 	public static int nbDigitalVideoDiscs = 0;
-    private String director; 
-    private int length;
 
     
     public String toString() {
