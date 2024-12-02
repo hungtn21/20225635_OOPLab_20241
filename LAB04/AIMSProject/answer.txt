@@ -1,3 +1,10 @@
+1. Xác định các lớp nào là tập hợp (aggregates) của các lớp khác? 
+- Cart là tập hợp của Media 
+- CompactDisc là tập hợp của Track 
+3. Nếu đối tượng truyền vào không phải là thể hiện của Media, thì điều gì sẽ xảy ra? 
+- Nếu đối tượng truyền vào không phải là thể hiện của lớp Media, khi gọi phương thức equals() trong lớp Media, bạn cần kiểm tra kiểu của đối tượng đó trước khi thực hiện so sánh. Cụ thể trong phương thức equals(), bạn có thể sử dụng instanceof để kiểm tra xem đối tượng truyền vào có phải là một thể hiện của lớp Media hay không. Nếu không, phương thức sẽ trả về false, vì hai đối tượng không thể so sánh được nếu chúng không phải cùng kiểu. 
+4. Thay vì sử dụng Comparator, chúng ta có thể sử dụng interface Comparable và ghi đè phương thức compareTo(). 
+
 Trả lời câu hỏi phần 12:
 1. Lớp nào nên implement interface Comparable?
 Interface Comparable nên được implement trong các lớp Media và các lớp con của nó như Book, CompactDisc, DigitalVideoDisc. 
